@@ -1,0 +1,12 @@
+{
+    "name": "colares/nano-framework",
+    "description": "A nano PHP framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Thiago Colares",
+            "email": "thicolares@gmail.com"
+        }
+    ],
+    "require": {}
+}
